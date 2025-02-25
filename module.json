@@ -2,7 +2,6 @@
 	"id": "encounter-stats",
 	"title": "Encounter Stats",
 	"description": "Capture your Players attacks, damage, healing, dice rolls, custom events and more. Store the results into a Journal for individual encounters and the entire campaign.",
-	"version": "This is auto replaced",
 	"library": "false",
 	"manifestPlusVersion": "1.0.0",
 	"compatibility": {
@@ -12,7 +11,7 @@
 	},
 	"authors": [
 		{
-			"name": "John Nolan",
+			"name": "WeirdlyRedPanda, John Nolan",
 			"url": "https://github.com/johnnolan",
 			"discord": "JB#2780",
 			"website": "https://www.johnnolan.dev"
@@ -85,13 +84,5 @@
 		}
 	],
 	"socket": true,
-	"url": "This is auto replaced",
-	"manifest": "This is auto replaced",
-	"download": "This is auto replaced",
-	"media": [
-		{
-			"type": "icon",
-			"url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
-		}
 	]
 }
